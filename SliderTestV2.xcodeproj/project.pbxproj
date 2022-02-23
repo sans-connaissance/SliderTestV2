@@ -13,6 +13,8 @@
 		4142D94127C5DA8A009B2BD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4142D92F27C5DA88009B2BD0 /* ContentView.swift */; };
 		4142D94227C5DA8A009B2BD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4142D93027C5DA8A009B2BD0 /* Assets.xcassets */; };
 		4142D94327C5DA8A009B2BD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4142D93027C5DA8A009B2BD0 /* Assets.xcassets */; };
+		4142D94D27C5DB88009B2BD0 /* HandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4142D94C27C5DB88009B2BD0 /* HandleView.swift */; };
+		4142D94E27C5DB88009B2BD0 /* HandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4142D94C27C5DB88009B2BD0 /* HandleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		4142D93527C5DA8A009B2BD0 /* SliderTestV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SliderTestV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4142D93B27C5DA8A009B2BD0 /* SliderTestV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SliderTestV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4142D93D27C5DA8A009B2BD0 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		4142D94C27C5DB88009B2BD0 /* HandleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,7 @@
 				4142D92E27C5DA88009B2BD0 /* SliderTestV2App.swift */,
 				4142D92F27C5DA88009B2BD0 /* ContentView.swift */,
 				4142D93027C5DA8A009B2BD0 /* Assets.xcassets */,
+				4142D94C27C5DB88009B2BD0 /* HandleView.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -178,6 +182,7 @@
 			files = (
 				4142D94027C5DA8A009B2BD0 /* ContentView.swift in Sources */,
 				4142D93E27C5DA8A009B2BD0 /* SliderTestV2App.swift in Sources */,
+				4142D94D27C5DB88009B2BD0 /* HandleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +192,7 @@
 			files = (
 				4142D94127C5DA8A009B2BD0 /* ContentView.swift in Sources */,
 				4142D93F27C5DA8A009B2BD0 /* SliderTestV2App.swift in Sources */,
+				4142D94E27C5DB88009B2BD0 /* HandleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
